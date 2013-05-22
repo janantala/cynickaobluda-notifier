@@ -3,6 +3,10 @@ cynickaobluda-notifier
 
 Email notifications for a new meme at http://cynickaobluda.com
 
+[![Cynicka obluda](https://lh5.googleusercontent.com/-QNdH2zq2cts/UUgaOE1IHxI/AAAAAAAACsQ/ubEgW8P3vS8/s640/blogger-image-637169134.jpg)](http://www.cynickaobluda.com/)
+
+======================
+
 ### Dependencies
 You need following:
 - heroku free hosting
